@@ -25,9 +25,12 @@ export default function Contact() {
       <address>
         123 Design Street, Civil Lines, Nagpur, Maharashtra, India<br/>
         <strong>Phone:</strong> +91 98765 43210<br/>
-        <strong>Email:</strong> info@ndesigns.com<br/>
+        <strong>Email:</strong> <br/>
       </address>
-      
+       <p>
+        Follow us on:&nbsp;
+        <a href="https://www.instagram.com/ndesignsngp?igsh=MTZ5OXMycGFzZ25qMg==" aria-label="Instagram">Instagram</a>&nbsp;
+      </p>
     </section>
   );
 }
